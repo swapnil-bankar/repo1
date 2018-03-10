@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 3846-6EDF
+
+ Directory of E:\gitSampleProject
+
+03/10/2018  07:09 PM    <DIR>          .
+03/10/2018  07:09 PM    <DIR>          ..
+03/10/2018  07:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,827,930,624 bytes free
